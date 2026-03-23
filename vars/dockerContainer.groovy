@@ -1,3 +1,3 @@
 def call() {
-  sh "docker run firstImageJenkins:1.0"
+  sh "docker run firstimagejenkins:1.0"
 }
